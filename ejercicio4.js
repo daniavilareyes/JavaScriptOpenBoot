@@ -4,7 +4,7 @@ let apellido = "Avila";
 let estudiante = ` ${nombre} ${apellido} `;
 console.log(estudiante);
 
-let estudianteMayus = console.log(estudiante.toUpperCase());
+let estudianteMayus = console.log(estudiante.toUpperCase());1
 
 let estudianteMinus = console.log(estudiante.toLowerCase());
 

@@ -10,5 +10,6 @@ const librofavorito = {
     titulo: "Ante todo no hagas daño",
     autor: "Henry Marsh",
     year: 2010,  
-    editorial: planeta,
+    editorial: "planeta",
 }
+console.log(librofavorito)

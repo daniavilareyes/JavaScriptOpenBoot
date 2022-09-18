@@ -27,7 +27,7 @@ const listaPeliculas = peliculasFavoritas.map(({titulo}, indice) => {
     return `${indice +1 } ${titulo}`
 })
 console.log(listaPeliculas)  
-
+// 
 const listaDirectores = peliculasFavoritas.map(({director}, indice) =>{
     return `${indice + 1} ${director}`
 })
